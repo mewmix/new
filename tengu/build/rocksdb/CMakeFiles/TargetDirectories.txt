@@ -1,0 +1,16 @@
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/install/local.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/install/strip.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/install.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/list_install_components.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/rebuild_cache.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/edit_cache.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/build_version.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/rocksdb.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/CMakeFiles/rocksdb-shared.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/install/local.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/install/strip.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/install.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/list_install_components.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/rebuild_cache.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/edit_cache.dir
+/Users/luisocampo/Downloads/TENGUX/build/rocksdb/third-party/gtest-1.7.0/fused-src/gtest/CMakeFiles/gtest.dir
